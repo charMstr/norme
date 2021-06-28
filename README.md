@@ -5,6 +5,14 @@
 This Document aims at providing a norme for a collective project. Especially
 ft_transcendence (project a 42 programing school).
 
+// [Mon 28/06/2021 at 12:36:15]
+//TODO (charmstr): 
+	create a separate file named style guide for the style of coding. It should
+	 talk about things, like:
+	 - use camelcase
+	 - how many spaces for indentation (2 or 4)
+	 - egyptian style for brackets?
+	 - definition of functons after the function is actually needed in the code..
 ## Functions:
 
 ### names:
@@ -54,6 +62,11 @@ int degrees_in_fahrenheit;
 
 Try to declare variables as const in the first intention, downgrade to non
 const if required.
+
+### Constants:
+
+When a variable is a constant and its value is hardcoded (known before "compile
+time"), give it a capital name.
 
 ### Add intermediary variables for a cleaner code:
 

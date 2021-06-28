@@ -1,0 +1,5 @@
+
+	request = 
+			- verb/method: POST GET PUT DELETE
+			- parameter: "~the target" of the URL.
+			- the endpoint: aka "the route", an URL.

@@ -1,0 +1,16 @@
+look up: on delete cascade ( mysql)
+
+look up: ORM server, maping object relationel in wikipedia.
+1) imposer un typage fort entre requete et base de donne.
+2) Mettre les donnes dans des structures, bien pratique.
+3) eviter les injections SQL etc...
+
+Attention avec typescript, a l'interface avec l'exterieur de ce qui est code
+en typescript. notamment attention au json, tout est string.
+
+attention aux parametres de fonctions: passage par value, sauf si object ou array.
+... 
+
+look up javascript "typeof" et "is instance of".
+
+canvas html pour afficher la table.
